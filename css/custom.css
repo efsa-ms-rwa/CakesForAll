@@ -1,0 +1,16 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+footer, header {
+    background-color: #F24A27;
+}
+
+.badge { background-color: #C3073F }
+h5.fw-bolder {
+    color: #F5221E;
+}
+
+.quantity {
+    text-align: center;
+}
